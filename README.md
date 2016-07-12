@@ -1,15 +1,16 @@
-# Andres-Cardona
+Andres Cardona
 Coding challenge_Insight_Andres Cardona
 
 DESCRIPTION
 
 This code reads Venmo payments from one .txt file in JSON format.
-It calculates the median degree of connections or payments for each end of the payment within a window of 60 seconds since the latest payment
+It calculates the median degree of connections/payments for each end of the payment within a window of 60 seconds since the latest payment
 
 REQUIREMENTS
 
-This program assumes you have installed Python 3.5 and that you have these libraries available (described below)  
+This program assumes you have Python 3.5 installed and the shebang '#!/usr/bin/env python' points to the Python 3.5 interpreter your machine. These code attempts to find the python 3.5 interpreter in the specifed location, it is recommended to uninstall any previous version of python before running this code.
 
+It also assumes you have the common libraries described below.
 
 STRUCTURE (Libraries)
 
